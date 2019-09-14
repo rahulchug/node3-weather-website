@@ -1,5 +1,3 @@
-import { log } from "util"
-
 /*fetch('http://puzzle.mead.io/puzzle').then((response) => {
 response.json().then((data)=>
     {
@@ -49,4 +47,5 @@ weatherForm.addEventListener('submit', (e)=>{
     })
     //console.log(location)
     console.log('Lets test this one')
+    console.log('Changing this one from GitHub')
 })
